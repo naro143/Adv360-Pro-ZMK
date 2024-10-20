@@ -11,7 +11,7 @@
   ],
   "layers": [
     [
-         "&kp ESC",  "&none",  "&none",  "&none",  "&none",  "&none",              "&none",                                                                             "&none",  "&none",  "&none",     "&none",   "&none",    "&none",   "&kp ESC",
+         "&kp ESC",  "&none",  "&none",  "&none",  "&none",  "&none",              "&none",                                                                             "&none",  "&none",  "&none",     "&none",   "&none",    "&none", "&kp GRAVE",
          "&kp TAB",  "&kp Q",  "&kp W",  "&kp E",  "&kp R",  "&kp T",              "&none",                                                                             "&none",  "&kp Y",  "&kp U",     "&kp I",   "&kp O",    "&kp P",   "&kp TAB",
        "&kp EQUAL",  "&kp A",  "&kp S",  "&kp D",  "&kp F",  "&kp G",              "&none", "&kp LCTRL",  "&kp LALT",                      "&kp RALT", "&kp RCTRL",     "&none",  "&kp H",  "&kp J",     "&kp K",   "&kp L", "&kp SEMI", "&kp MINUS",
            "&mo 4",  "&kp Z",  "&kp X",  "&kp C",  "&kp V",  "&kp B",                                    "&kp LSHFT",                     "&kp LSHFT",                            "&kp N",  "&kp M", "&kp COMMA", "&kp DOT",  "&kp SQT",     "&mo 4",
